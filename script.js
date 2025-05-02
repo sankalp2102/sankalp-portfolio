@@ -4,13 +4,13 @@ const commands = {
         execute: () => [
             '┌───────────── Available Commands ─────────────┐',
             '│                                              │',
-            '│   about      Display information about me    │',
-            '│   projects   Show my projects                │',
-            '│   skills     List technical skills           │',
-            '│   education  Show educational background     │',
-            '│   experience Display work experience         │',
-            '│   contact    Get contact information         │',
-            '│   clear      Clear the terminal              │',
+            '│   about      - Display information about me  │',
+            '│   projects   - Show my projects              │',
+            '│   skills     - List technical skills         │',
+            '│   education  - Show educational background   │',
+            '│   experience - Display work experience       │',
+            '│   contact    - Get contact information       │',
+            '│   clear      - Clear the terminal            │',
             '│                                              │',
             '└──────────────────────────────────────────────┘'
         ]
